@@ -12,9 +12,10 @@ The Snake Game is a simple arcade-style game where the player controls a snake t
 
 ## 🧠 Key Concepts Used
 
-This project was built using **Object-Oriented Programming (OOP)** principles to organize the code into reusable and structured components.
+This project is built using **Object-Oriented Programming (OOP)** principles to organize the code into reusable and structured components.
 
 ### Main OOP Classes:
+
 - **Snake Class**
   - Handles snake creation, movement, and growth
   - Manages direction control and body segment updates
@@ -25,43 +26,36 @@ This project was built using **Object-Oriented Programming (OOP)** principles to
 
 - **Scoreboard Class**
   - Tracks and displays the player’s score
-  - Shows game over message when the game ends
+  - Shows a game over message when the game ends
 
 ---
 
 ## 🎮 Features
 
-- Smooth snake movement using keyboard controls
-- Random food generation
-- Score tracking system
-- Collision detection (walls and self-collision)
-- Game over condition handling
-- Modular OOP-based structure for better readability and scalability
+- Smooth snake movement using keyboard controls  
+- Random food generation  
+- Score tracking system  
+- Collision detection (walls and self-collision)  
+- Game over condition handling  
+- Modular OOP-based structure for better readability and scalability  
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python 3
-- Turtle Graphics Library
-- Object-Oriented Programming (OOP)
+- Python 3  
+- Turtle Graphics Library  
+- Object-Oriented Programming (OOP)  
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/snake-game-python.git
-```
-
-2. Navigate to the project folder:
-```
+Navigate to the project folder:
 cd snake-game-python
-```
-
 Run the game:
-```
 python main.py
-```
-

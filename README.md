@@ -53,3 +53,15 @@ This project was built using **Object-Oriented Programming (OOP)** principles to
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/snake-game-python.git
+```
+
+2. Navigate to the project folder:
+```
+cd snake-game-python
+```
+
+Run the game:
+```
+python main.py
+```
+
